@@ -50,7 +50,7 @@ GPLv3 - Repo : https://github.com/Ahmed-Al-Balochi/LibreGaming.git
 ## Step 5: Configure Steam
 
 Steam --> Settings --> Steam Play ---> Advanced ---> Enable Steam Play for all other titles
-### I'm using Proton Experimental becouse using more stable than original proton and can see play game on [Discord](https://discord.com/download)
+### I'm using Proton Experimental becouse more stable than original proton and can see play game on [Discord](https://discord.com/download)
 
 Library --> Proton Experimental --> Properties --> Betas --> bleeding-edge - lastest and untested dxvk, vkd3d-proton and wine changes; backup your prefixes before using
 
