@@ -5,6 +5,6 @@
 [Username@fedora ~]$ sudo dnf update
 
 ```
-Step 2: Download GPU Drivers
+<h2>Step 2:</h2> Download GPU Drivers
 
--[Fedora](https://www.linuxcapable.com/how-to-install-the-latest-nvidia-graphic-drivers-on-fedora-35-gnome-41/)
+- [Download GPU Driver Guide](https://www.linuxcapable.com/how-to-install-the-latest-nvidia-graphic-drivers-on-fedora-35-gnome-41/)
