@@ -9,6 +9,7 @@
 
 - [Download GPU Driver Guide](https://www.linuxcapable.com/how-to-install-the-latest-nvidia-graphic-drivers-on-fedora-35-gnome-41/)
 
+
 ## Step 3: Download and Configure LibreGaming using pip
 
 ```
