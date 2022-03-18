@@ -1,6 +1,6 @@
 # Gaming on Linux Guide
 
-Step 1: Upgrade System (I'm using Fedora and upgrading like this)
+<h2>Step 1:</h2> Upgrade System (I'm using Fedora and upgrading like this)
 ```
 [Username@fedora ~]$ sudo dnf update
 
