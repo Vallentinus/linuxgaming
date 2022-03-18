@@ -13,8 +13,8 @@
 ## Step 3: Download and Configure LibreGaming using pip
 
 ```
-[Username@fedora ~]$ pip3 install LibreGaming   #installs LibreGaming 
-[Username@Fedora ~]$ LibreGaming -h   #This shows what would you download 
+[Username@fedora ~]$ pip3 install LibreGaming   # Installs LibreGaming 
+[Username@Fedora ~]$ LibreGaming -h   # This shows what would you download 
 usage: LibreGaming <arguments>
 
 Install Gaming Packages with ease
@@ -38,6 +38,6 @@ options:
   --stl              Install Steam Tinker Launch(For Arch Linux only)
 
 GPLv3 - Repo : https://github.com/Ahmed-Al-Balochi/LibreGaming.git
-[Username@fedora ~]$ LibreGaming -g   #downloading all gaming packages
+[Username@fedora ~]$ LibreGaming -g   # Downloading all gaming packages
 ```
 
