@@ -3,7 +3,7 @@
 ## Step 1: Upgrade System 
 ```
 [Username@fedora ~]$ sudo dnf update
-[Username@debian ~]$ sudo apt-get update ¾¾ sudo apt-get upgrade
+[Username@debian ~]$ sudo apt-get update && sudo apt-get upgrade
 [Username@arch ~] sudo pacman -Syyu
 
 ```
