@@ -1,13 +1,15 @@
-# Gaming on Linux Guide (Fedora Linux)
+# Gaming on Linux Guide 
 
 ## Step 1: Upgrade System 
 ```
 [Username@fedora ~]$ sudo dnf update
+[Username@debian ~]$ sudo apt-get update ¾¾ sudo apt-get upgrade
+[Username@arch ~] sudo pacman -Syyu
 
 ```
 ## Step 2: Download GPU Drivers
 
-- [Download GPU Driver Guide (NVIDIA)](https://www.linuxcapable.com/how-to-install-the-latest-nvidia-graphic-drivers-on-fedora-35-gnome-41/)
+- [Download GPU Driver Guide (NVIDIA)](https://www.nvidia.com/Download/index.aspx?lang=en-us)
 - [Download GPU Driver Guide (AMD)](https://www.amd.com/en/support/kb/faq/amdgpu-installation)
 
 
@@ -15,7 +17,7 @@
 
 ```
 [Username@fedora ~]$ sudo pip3 install LibreGaming   # Installs LibreGaming 
-[Username@Fedora ~]$ sudo LibreGaming -h   # This shows what would you download 
+[Username@fedora ~]$ sudo LibreGaming -h   # This shows what would you download 
 usage: LibreGaming <arguments>
 
 Install Gaming Packages with ease
@@ -58,4 +60,10 @@ Library --> Proton Experimental --> Properties --> Betas --> bleeding-edge - las
 
 ### You can look is your game compatible with linux [ProtonDB](https://www.protondb.com/)
 
-## Step 6: Download your game and enjoy!!
+## Optional: 
+
+If you have performance drops install [Gamemode](https://github.com/FeralInteractive/gamemode) this extension will optimize your gaming experience.
+
+If you want play games on Epic [Heroic Games Launcher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher#installation) (LibreGaming includes this package)
+
+
