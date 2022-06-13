@@ -64,6 +64,6 @@ Library --> Proton Experimental --> Properties --> Betas --> bleeding-edge - las
 
 If you have performance drops install [Gamemode](https://github.com/FeralInteractive/gamemode) this extension will optimize your gaming experience.
 
-If you want play games on Epic [Heroic Games Launcher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher#installation) (LibreGaming includes this package)
+If you want play games on Epic use [Heroic Games Launcher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher#installation) (LibreGaming includes this package)
 
 
